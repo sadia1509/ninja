@@ -1,4 +1,3 @@
-target/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -20,3 +19,8 @@ buildNumber.properties
 .idea/misc.xml
 .idea/encodings.xml
 .idea/compiler.xml
+# Project ignores
+/.mvn/
+/.idea/
+target/
+/ninja.iml
